@@ -11,7 +11,7 @@ class MrViperTest {
 
         public static void main(String [] arg) throws IOException {
             //Input and output file paths
-            String inputFilePath = "src/t25i10d10k.txt";
+            String inputFilePath = "Minimal_Rare/src/t25i10d10k.txt";
             String outputFilePath = "./output.txt";
 
             // the threshold that we will use:
